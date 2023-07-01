@@ -1,4 +1,4 @@
-# 😋 Trabalho final em C Aedes I
+# 💻 Trabalho final em C Aedes I
 
 ## 💪 Integrantes do Grupo
 
